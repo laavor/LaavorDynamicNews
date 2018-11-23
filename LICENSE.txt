@@ -1,0 +1,14 @@
+License Software
+Copyright 2018 Isaac Laavor 
+
+Permission is granted to anyone who obtains a copy of this software and the associated documentation files (the "Software") 
+for personal use. In case companies are free when the software is free, for marketing or monetized development projects it is necessary to
+make a donation of a minimum value of $ 5.00 (per use) for maintenance of the project. The above copyright notice and this permission
+ notice must be included in all copies or substantial portions of the Software. 
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, FITNESS FOR A PARTICULAR PURPOSE 
+AND NON-INFRINGEMENT. IN NO EVENT SHALL AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIMS, 
+DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE,
+ARISING OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHERWISE NEGOTIATIONS IN THE PROGRAMS.
+
+Contact: support@laavor.com
