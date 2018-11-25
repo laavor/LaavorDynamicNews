@@ -1,1 +1,1 @@
-Now works orderly item by item and not randomly.
+Add new property "pauseInHover" that for animation when the mouse is on top of the element.
