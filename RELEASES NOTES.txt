@@ -1,1 +1,3 @@
-Add new property "pauseInHover" that for animation when the mouse is on top of the element.
+Added new methods for manual navigation:
+LaavorMoveToPrevious ();
+LaavorMoveToNext ();
