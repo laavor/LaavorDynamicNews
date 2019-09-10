@@ -1,13 +1,6 @@
 License Software
-Copyright 2019 Fernando Ezequiel Candido - Laavorcom 
+Copyright 2019 - Fernando Ezequiel Candido - Laavor
 
-Fernando Ezequiel Candido, Laavor.com - Copyright 2019 
-
-Permission is granted to anyone who obtains a copy of this software and the associated documentation files (the "Software") for personal use. 
-In case companies are free when the software is free, for marketing or monetized development projects it is necessary to make a donation of a minimum value of 5.00 per machine using each component (subject to legal charge) for maintenance of the project. 
-The above copyright notice and this permission notice must be included in all copies or substantial portions of the Software. 
-
-THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. 
-IN NO EVENT SHALL AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIMS, DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHERWISE NEGOTIATIONS IN THE PROGRAMS.
-
-Contact: support@laavor.com
+Permission is granted to anyone who obtains a copy of this software and the associated documentation files (the "Software"), it is free to use until it is sold by Laavor, after which license acquisition will be required.
+The code copy or reverse engineering is not permitted for copying software design subject to law and criminal reporting. The above copyright notice and this permission notice must be included in all copies or substantial portions of the Software.
+Contact: candido@laavor.com
