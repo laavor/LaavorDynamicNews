@@ -1,5 +1,9 @@
 License Software
-Copyright 2019 - Fernando Ezequiel Candido - Laavor
+
+Help maintain Laavor
+https://www.paypal.com/donate/?hosted_button_id=EZRQ36MSXT8F8&source=url
+
+Copyright 2021 - Fernando Candido - Laavor
 
 Permission is granted to anyone who obtains a copy of this software and the associated documentation files (the "Software"), it is free to use until it is sold by Laavor, after which license acquisition will be required.
 The code copy or reverse engineering is not permitted for copying software design subject to law and criminal reporting. The above copyright notice and this permission notice must be included in all copies or substantial portions of the Software.
